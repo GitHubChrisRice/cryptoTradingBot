@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 rh = {
-    "username": "",
+    "username": "a",
     "password": "",
 }
 
@@ -15,7 +15,3 @@ config = {
     "tradesEnabled": False,
     "rsiWindow": 48,
 }
-
-
-
-
