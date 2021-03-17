@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 
 rh = {
-    "username": "",
-    "password": "",
+    "username": "pi_miner",
+    "password": "km6esx1420",
 }
 
 config = {
