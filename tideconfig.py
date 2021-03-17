@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 rh = {
-    "username": "a",
+    "username": "",
     "password": "",
 }
 
@@ -11,7 +11,7 @@ config = {
     "sellLimit": 0.02,
     "movingAverageWindows": 24,    # 4 hours * 6 samples per hour
     "runMinute": [5,15,25,35,45,55],
-    "coinList": ["BCH", "ETH"],
+    "coinList": ["ETC"],
     "tradesEnabled": False,
     "rsiWindow": 48,
 }
